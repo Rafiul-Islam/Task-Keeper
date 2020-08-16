@@ -15,7 +15,6 @@ A basic task keeper app using JavaScript DOM without database
  ⋅ Babel
  
  ## Install
- ---
  
  ### Clone
 ```git clone https://github.com/Rafiul-Islam/Task-Keeper/```
