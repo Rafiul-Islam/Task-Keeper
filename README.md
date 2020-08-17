@@ -14,14 +14,14 @@ A basic task keeper app using JavaScript DOM without database
  ⋅ Webpack
  ⋅ Babel
  
- ## Install
+ ## Starterkit
  
- ### Clone
+ ### Get the kit
 ```
 git clone https://github.com/Rafiul-Islam/Task-Keeper/
 ```
  
- ### NPM
+ ### Install
  ```
  npm install
  ```
