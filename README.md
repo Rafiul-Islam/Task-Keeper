@@ -1,18 +1,18 @@
 A basic task keeper app using JavaScript DOM without database
 
 ## Features
- ⋅ Add Task
- ⋅ Edit Task
- ⋅ Delete Task
- ⋅ change task level with background color
+ - Add Task
+ - Edit Task
+ - Delete Task
+ - change task level with background color
  
 ## Technology
- ⋅ HTML
- ⋅ CSS
- ⋅ Bootstarp
- ⋅ JavaScript DOM
- ⋅ Webpack
- ⋅ Babel
+ - HTML
+ - CSS
+ - Bootstarp
+ - JavaScript DOM
+ - Webpack
+ - Babel
  
  ## Starterkit
  
