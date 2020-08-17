@@ -20,9 +20,13 @@ A basic task keeper app using JavaScript DOM without database
 ```git clone https://github.com/Rafiul-Islam/Task-Keeper/```
  
  ### NPM
- ```npm install```
+ ```
+ npm install
+ ```
  
  run the project on 8080 port with this following command
  
- ```npm start```
+ ```
+ npm start
+ ```
  
