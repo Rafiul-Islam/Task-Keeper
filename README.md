@@ -1,4 +1,4 @@
-A basic task keeper app using JavaScript DOM without database
+A basic task keeper project using JavaScript DOM 
 
 ## Features
  - Add Task
