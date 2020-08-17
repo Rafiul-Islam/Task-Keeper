@@ -17,7 +17,9 @@ A basic task keeper app using JavaScript DOM without database
  ## Install
  
  ### Clone
-```git clone https://github.com/Rafiul-Islam/Task-Keeper/```
+```
+git clone https://github.com/Rafiul-Islam/Task-Keeper/
+```
  
  ### NPM
  ```
