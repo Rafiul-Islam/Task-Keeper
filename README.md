@@ -26,7 +26,7 @@ git clone https://github.com/Rafiul-Islam/Task-Keeper/
  npm install
  ```
  
- run the project on 8080 port with this following command
+Builds the application and starts a webserver with hot loading. Runs on `http://localhost:8080/`
  
  ```
  npm start
