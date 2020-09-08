@@ -1,6 +1,6 @@
 A basic task keeper project using JavaScript DOM
 
-[Website](https://amazing-stonebraker-5c718e.netlify.app/)
+[Website](https://task-keeper.netlify.app/)
 
 ## Features
  - Add Task
